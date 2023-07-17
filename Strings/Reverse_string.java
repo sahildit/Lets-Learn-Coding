@@ -1,5 +1,5 @@
 /** 
-* Its via recursion.
+* Its via recursion method.
  * Ref vide0 => https://www.youtube.com/watch?v=eFXcYym2ymo
  */
 
